@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj": {}
+    "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj": {}
   },
   "projects": {
-    "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj": {
+    "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj",
+        "projectUniqueName": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj",
         "projectName": "HotelBooking.API",
-        "projectPath": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj",
+        "projectPath": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj",
         "packagesPath": "C:\\Users\\sumat\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\obj\\",
+        "outputPath": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
           "dependencies": {
             "MailKit": {
               "target": "Package",
-              "version": "[4.15.0, )"
+              "version": "[4.15.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

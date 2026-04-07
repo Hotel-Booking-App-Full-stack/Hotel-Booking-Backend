@@ -73,10 +73,10 @@
           }
         }
       },
-      "MailKit/4.15.0": {
+      "MailKit/4.15.1": {
         "type": "package",
         "dependencies": {
-          "MimeKit": "4.15.0",
+          "MimeKit": "4.15.1",
           "System.Formats.Asn1": "8.0.1"
         },
         "compile": {
@@ -1851,10 +1851,10 @@
         "logo.png"
       ]
     },
-    "MailKit/4.15.0": {
-      "sha512": "PM3bNDLwmK2hdiTx8xkTLRMRf9Y0VuirdyHWsrlSlz9hrME0lFkt/rF/9xlK/AtVML86BlS07pEPqo43Cmptbg==",
+    "MailKit/4.15.1": {
+      "sha512": "4mLbqTbH3ctd0NlukHjVQbU3ZnNDuCtB6ttNZDLPZLWMA2Dr31rh/eCSTqOwDojUX8zfDOVaxstMgJTE9PwZNA==",
       "type": "package",
-      "path": "mailkit/4.15.0",
+      "path": "mailkit/4.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1891,7 +1891,7 @@
         "lib/netstandard2.1/MailKit.dll.config",
         "lib/netstandard2.1/MailKit.pdb",
         "lib/netstandard2.1/MailKit.xml",
-        "mailkit.4.15.0.nupkg.sha512",
+        "mailkit.4.15.1.nupkg.sha512",
         "mailkit.nuspec"
       ]
     },
@@ -5176,7 +5176,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "MailKit >= 4.15.0",
+      "MailKit >= 4.15.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.12",
       "Microsoft.AspNetCore.OpenApi >= 9.0.12",
       "Microsoft.EntityFrameworkCore >= 9.0.12",
@@ -5195,11 +5195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj",
+      "projectUniqueName": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj",
       "projectName": "HotelBooking.API",
-      "projectPath": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\HotelBooking.API.csproj",
+      "projectPath": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\HotelBooking.API.csproj",
       "packagesPath": "C:\\Users\\sumat\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net-Web\\HotelBooking.API\\HotelBooking.API\\obj\\",
+      "outputPath": "C:\\Hotel-Booking-Backend\\HotelBooking.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5240,7 +5240,7 @@
         "dependencies": {
           "MailKit": {
             "target": "Package",
-            "version": "[4.15.0, )"
+            "version": "[4.15.1, )"
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
